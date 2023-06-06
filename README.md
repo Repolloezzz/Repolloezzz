@@ -1,10 +1,15 @@
 ```typescript
 export function holaMundo(desc, skills): Profile {
-  console.log("Hola mundo👋");
-  console.log(desc);
-  skills.foreach((skill: Skill) => {
-    console.log(skill.img, skill.name);
-  });
+  const title = "Hola mundo👋";
+  const mapSkills = skills.map((skill: Skill) => ({
+    url: search(skill)
+    image: searchImg(skinll)
+  }));
+  // Mi perfil de GitHub
+  return {
+    title,
+    mapSkills
+  }
 }
 ```
 
