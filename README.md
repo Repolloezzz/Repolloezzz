@@ -6,7 +6,7 @@
 <a href="https://github.com/Repolloezzz?tab=repositories">
 <img alt="Portfolio Badge" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
-<a href="">
+<a href="https://dev.to/repolloezzz">
 <img alt="DevTo Badge" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </a>
 <a href="https://codepen.io/repolloezzz">
